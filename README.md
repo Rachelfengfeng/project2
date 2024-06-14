@@ -8,4 +8,4 @@ The assigned dataset to me is small 3 and large 32.
 
 For small 3 dataset the best features combination is [6, 12] and accuracy is 0.962. 
 
-For Large 32 dataset the best features combination is [6, 12] and accuracy is 0.962. 
+For Large 32 dataset the best features combination is [10, 26,2] and accuracy is 0.9716. 
